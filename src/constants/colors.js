@@ -1,0 +1,10 @@
+export const BACKGROUND_GRAY = "#FDFDFE";
+export const PURE_WHITE = "#FFFFFF";
+export const BRAND_BLUE = "#021BFF";
+export const SHADE_THREE_GRAY = "#77798B";
+export const FACEBOOK_BLUE = "#385998";
+export const GOOGLE_RED = "#DB4A39";
+export const DARK_ASH = "#3C3C44";
+export const BLACK_ASH = "#404858";
+export const PURE_BLACK = "#000000";
+export const GRAY_BLUE = "#828497";
